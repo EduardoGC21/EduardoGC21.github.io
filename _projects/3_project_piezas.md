@@ -3,7 +3,6 @@ layout: page
 title: Sustainable spare parts
 description: A project that tries to find equivalences in spare parts to recycle them.
 img: assets/img/carro.jpg
-redirect: https://unsplash.com
 importance: 3
 category: makers
 ---
