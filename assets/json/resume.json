@@ -24,7 +24,7 @@
     {
       "institution": "Instituto Tecnológico Autónomo de México",
       "location": "Mexico City, Mexico",
-      "url": "",
+      "url": "https://www.itam.mx/",
       "area": "Data Science",
       "studyType": "Bachelor’s",
       "startDate": "2022-08-01",
@@ -35,7 +35,7 @@
     {
       "institution": "Instituto Chapultepec",
       "location": "Culiacán, Sinaloa",
-      "url": "",
+      "url": "https://fomentochapultepec.org/instituto-chapultepec-norte",
       "area": "High School",
       "studyType": "High School Diploma",
       "startDate": "2019-08-01",
@@ -49,14 +49,12 @@
       "title": "Baillères Scholarship",
       "date": "2022-01-01",
       "awarder": "ITAM",
-      "url": "",
       "summary": "Covers 100% of tuition in university."
     },
     {
       "title": "Highest Grade Average Award",
       "date": "2023-01-01",
       "awarder": "ITAM",
-      "url": "",
       "summary": "Awarded for achieving the highest grade average of Data Science."
     }
   ],
@@ -64,19 +62,18 @@
     {
       "name": "ITAM Makers Lab",
       "position": "Data Scientist",
-      "url": "",
+      "url": "https://experiencia-platon.vercel.app/",
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
       "summary": "Developed a prototype of an online video game to enhance the interactivity of Plato's \"Crito\" dialogue.",
       "highlights": [
-        "Implemented HTML and JavaScript.",
-        "Used node-based game design."
+        "Implemented Angular.",
+        "Used node-based game design, with Twine."
       ]
     },
     {
       "name": "Hackaton ITAM",
       "position": "Participant",
-      "url": "",
       "startDate": "2023-08-01",
       "endDate": "2023-12-01",
       "summary": "My team of three won first place at the ITAM Hackathon focused on cybersecurity.",
@@ -87,7 +84,7 @@
     },
     {
       "name": "Analysis of National Fishing Industry in Mexico",
-      "summary": "Explored and analyzed national data on aquatic animals captured and raised across Mexico, identifying and visualizing patterns for the period 2020-2023.",
+      "summary": "Explored and analyzed national data on aquatic animals captured and raised across Mexico, identifying and visualizing patterns for the period 2020-2022.",
       "highlights": [],
       "startDate": "2024-01-01",
       "endDate": "2024-05-01",
@@ -101,13 +98,13 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "",
-      "keywords": ["Python", "Java", "R", "SQL", "HTML", "JavaScript", "CSS", "Linux"]
+      "keywords": ["Python", "Java", "R", "SQL", "HTML", "JavaScript", "CSS"]
     },
     {
       "name": "Other Software",
       "level": "",
       "icon": "",
-      "keywords": [ "Docker", "Markdown", "LaTeX", "Excel"]
+      "keywords": [ "Linux", "Docker", "Markdown", "LaTeX", "Excel"]
     }
   ],
   "languages": [
